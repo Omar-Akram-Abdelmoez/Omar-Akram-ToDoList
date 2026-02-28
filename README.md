@@ -2,9 +2,6 @@
 👉 Expo Snack:
 https://snack.expo.dev/@omarakram/todolist
 
-MC2026 – Assignment 01
-👨‍🎓 Student Information
-
 Name: Omar Akram Abdelmoez
 Course: MC2026
 Project Type: React Native Mobile Application
