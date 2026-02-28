@@ -1,52 +1,48 @@
-📌 To-Do List App – MC2026 Assignment 01
-👤 Student Information
+📝 To-Do List App
+MC2026 – Assignment 01
+👨‍🎓 Student Information
 
 Name: Omar Akram Abdelmoez
 Course: MC2026
-Assignment: Assignment 01 – To-Do List Application
+Project Type: React Native Mobile Application
 
-📱 Project Overview
+📱 About The Project
 
-This project is a simple To-Do List mobile application built using React Native and Expo Snack.
+This project is a simple and modern To-Do List mobile application developed using React Native and Expo Snack.
 
-The application allows users to:
+The application demonstrates the use of:
 
-Add new goals
+State management with useState
 
-Display goals using FlatList
+List rendering with FlatList
 
-Delete goals by tapping on them
+Custom fonts integration
 
-View an empty state message when no goals exist
+Clean UI design with consistent color palette
 
-🚀 Features
+✨ Key Features
 
-Add Goal functionality
+✔ Add new goals
+✔ Delete goals by tapping on them
+✔ Input validation
+✔ FlatList with scrolling support
+✔ Custom Google Fonts (Poppins)
+✔ Empty state message
+✔ Responsive and clean UI
 
-Delete Goal functionality
+🎨 Design System
+Color Palette
+Role	Color	Hex
+Primary	Dark Blue	#1E3A8A
+Secondary	Blue	#3B82F6
+Background	Light Gray	#F8F9FA
+Secondary Text	Gray	#6B7280
+Surface	White	#FFFFFF
+Fonts Used
 
-Input validation
+Poppins 400 (Regular)
 
-FlatList rendering with scrolling support
-
-Custom Google Fonts (Poppins)
-
-Consistent color palette
-
-Clean and modern UI design
-
-🎨 Color Palette
-Usage	Hex Code
-Primary Color	#1E3A8A
-Secondary Color	#3B82F6
-Background	#F8F9FA
-Secondary Text	#6B7280
-White	#FFFFFF
-🔤 Fonts Used
-
-Poppins_400Regular
-
-Poppins_700Bold
+Poppins 700 (Bold)
 
 Implemented using:
 
@@ -54,17 +50,18 @@ expo-font
 
 @expo-google-fonts/poppins
 
-🔗 Expo Snack Link
+🔗 Live Preview
 
+👉 Expo Snack:
 https://snack.expo.dev/@omarakram/todolist
 
-🛠 Technologies Used
+🛠 Tech Stack
 
 React Native
 
 Expo Snack
 
-JavaScript
+JavaScript (ES6)
 
 useState Hook
 
