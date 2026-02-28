@@ -1,4 +1,7 @@
 📝 To-Do List App
+👉 Expo Snack:
+https://snack.expo.dev/@omarakram/todolist
+
 MC2026 – Assignment 01
 👨‍🎓 Student Information
 
@@ -52,8 +55,7 @@ expo-font
 
 🔗 Live Preview
 
-👉 Expo Snack:
-https://snack.expo.dev/@omarakram/todolist
+
 
 🛠 Tech Stack
 
